@@ -1,5 +1,4 @@
-# SA818S
-# NiceRF Library
+# SA818S Library
 
 Arduino library for interfacing with NiceRF SA818S devices via serial communication.
 
